@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- 🌱 I’m currently learning angular js
+- 🌱 I’m currently learning angular
 - 👯 I’m looking to collaborate on react js
 - 💬 Ask me about JavaScript , react js
 - 📫 How to reach me: [instagram](https://www.instagram.com/erfaan.veisi)
