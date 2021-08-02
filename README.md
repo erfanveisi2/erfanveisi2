@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on react js
 - 💬 Ask me about JavaScript , react js
 - 📫 How to reach me: [instagram](https://www.instagram.com/erfaan.veisi)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 17 now!
 
 **Languages and Tools:**
