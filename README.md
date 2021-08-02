@@ -1,10 +1,8 @@
 ### Hey there 👋
 
-- 🌱 I’m currently learning angular
-- 👯 I’m looking to collaborate on react js
-- 💬 Ask me about JavaScript , react js
-- 📫 How to reach me: [instagram](https://www.instagram.com/erfaan.veisi)
-- ⚡ Fun fact: I'm 17 now!
+- I’m currently learning angular
+- Ask me about JavaScript , react js
+- How to reach me: [instagram](https://www.instagram.com/erfaan.veisi)
 
 **Languages and Tools:**
 
