@@ -2,7 +2,7 @@
 
 - I’m currently learning angular,java
 - Ask me about JavaScript , react js
-- How to reach me: [instagram](https://www.instagram.com/erfaan.veisi)
+- How to reach me: [instagram](https://www.instagram.com/erfaanveisi)
 
 **Languages and Tools:**
 
