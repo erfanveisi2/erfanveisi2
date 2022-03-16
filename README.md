@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- I’m currently learning angular,java
+- I’m currently learning Node js , Python
 - Ask me about JavaScript , react js
 - How to reach me: [instagram](https://www.instagram.com/erfaanveisi)
 
