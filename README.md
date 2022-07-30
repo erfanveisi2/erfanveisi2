@@ -1,8 +1,7 @@
 ### Hey there 👋
 
-- I’m currently learning Node js , Python
-- Ask me about JavaScript , react js
-- How to reach me: [instagram](https://www.instagram.com/erfaanveisi)
+- I’m currently learning Node.js , SQL
+- How to reach me: erfanveisi2@gmail.com
 
 **Languages and Tools:**
 
