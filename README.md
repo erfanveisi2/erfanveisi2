@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- I’m currently learning Node.js , SQL
+- I’m currently learning React native
 - How to reach me: erfanveisi2@gmail.com
 
 **Languages and Tools:**
