@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- I’m currently learning React native
+- I’m currently learning Node Js
 - How to reach me: erfanveisi2@gmail.com
 
 **Languages and Tools:**
