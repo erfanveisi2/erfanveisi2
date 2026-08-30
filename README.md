@@ -44,7 +44,7 @@ erfan@ai-systems ~ $ open --connect
 <br/>
 
 <img src="https://github-readme-stats-gold-one-22.vercel.app/api?username=erfanveisi2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f2f6&icon_color=f0f2f6&text_color=8a97ad" alt="GitHub stats" height="160" />
-<img src="https://github-readme-stats-gold-one-22.vercel.app/api/top-langs/?username=erfanveisi2&layout=compact&langs_count=6&hide=plpgsql,dockerfile,lua&exclude_repo=clothing-platform,airlines&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f2f6&text_color=8a97ad" alt="Top languages" height="160" />
+<img src="https://github-readme-stats-gold-one-22.vercel.app/api/top-langs/?username=erfanveisi2&layout=compact&langs_count=6&hide=css,html,scss,plpgsql,dockerfile,lua&exclude_repo=clothing-platform,airlines&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f2f6&text_color=8a97ad" alt="Top languages" height="160" />
 
 <br/><br/>
 
